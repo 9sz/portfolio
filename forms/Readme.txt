@@ -1,2 +1,1 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
+Talvez eu crie um formulário funcionando em PHP depois, por enquanto não funciona.
